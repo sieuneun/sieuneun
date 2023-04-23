@@ -3,6 +3,11 @@
 <h1> Hi, I'm SONG SIEUN <h1/> 
  
  <BR />
+  <H2> 🎓 My Education 🎓</h2><BR />
+<h5>2020년 3월 한세대학교 입학</h5>
+<h5>2024년 2월 한세대학교 졸업</h5>
+ 
+ <BR />
   <H2> 📕 My Active 📕</h2><BR />
 <p>
   <em>
