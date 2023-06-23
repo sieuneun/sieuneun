@@ -1,7 +1,7 @@
 <img align="right" src="https://postfiles.pstatic.net/MjAyMzA0MjNfMTI4/MDAxNjgyMjQ2ODcwNzc2.QXMRRKnuXvgCn-sr_VwfOLmI5pcJTg955BqXxJ1pbEwg.RE-pF2IO2MatwfX5ip9bQxk5A86dOhbXPscqhSpfl-wg.JPEG.0504jade/IMG_5859.jpg?type=w773" width="300"/>
 
 <h1> Hi, I'm SONG SIEUN <h1/> 
- 안녕하세요. 한세대학교를 졸업하고 ISMS-P 인증원과 보안컨설팅 업무를 희망하는 송시은입니다. 
+ <H2>안녕하세요. 한세대학교를 졸업하고 ISMS-P 인증원과 보안컨설팅 업무를 희망하는 송시은입니다. </H2>
  <BR />
   <H2> 🎓 My Education 🎓</h2><BR />
 <h5>2020년 3월 한세대학교 산업보안학과 입학</h5>
